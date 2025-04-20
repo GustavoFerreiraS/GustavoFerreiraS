@@ -2,7 +2,9 @@ Seja bem vindo(a)!
 
 👤 Gustavo Ferreira, morador do Rio de Janeiro.
 
-🎓 Estudante de Técnico em informática - Colégio Santo Inácio - Botafogo-RJ. 
+🎓 Estudante de Sistemas de Informação - CEFET-RJ
+
+💻 Técnico em informática - Colégio Santo Inácio - Botafogo-RJ. 
 
 🔭 Futuro Desenvolvedor Web
 
