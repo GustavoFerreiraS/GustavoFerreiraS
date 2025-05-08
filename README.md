@@ -1,11 +1,10 @@
-Seja bem vindo(a)!
 
 ## 👋 Olá, seja bem-vindo(a)!
 
 🧑‍💻 Meu nome é **Gustavo Ferreira**  
 📍 Sou do **Rio de Janeiro - RJ**  
 🎓 Estudante de **Sistemas de Informação** - CEFET-RJ  
-💻 Técnico em Informática - Colégio Santo Inácio (Botafogo - RJ)  
+💻 **Técnico em Informática**- Colégio Santo Inácio (Botafogo - RJ)  
 🚀 Buscando me tornar um **Desenvolvedor Web Full**  
 📂 Veja meus resumos sobre **TI** abaixo ⬇️
 
@@ -20,24 +19,20 @@ Seja bem vindo(a)!
 
 
 ##
-<div style="display: inline_block"><br>
-  <### 🛠️ Tecnologias que conheço
-**Front-end**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-**Back-end & Banco de Dados**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Outros**  
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
-          
-  </div>
+<div>
+<img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gustavo-Javascript" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
+  <img align="center" alt="Gustavo-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Gustavo-Php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" >
+  <img align="center" alt="Gustavo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Gustavo-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Gustavo-Botstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="Gustavo-Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
+  <img align="center" alt="Gustavo-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Gustavo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+       
+ </div>
 
 ### Redes Sociais 
 
